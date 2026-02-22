@@ -1,17 +1,3 @@
-User: help me plan to create online simple but useful developer tools that can be build by agentic ai. can be about a framework, js, ts tools, formatter and so on 
-
-GitHub Copilot: Research workspace structure
-
-Read [](file:///c%3A/WORK/iEatCodeCorp/OnlineSimpleDevTools)
-
-The workspace is a blank slate. Before drafting the plan, I need a few key decisions: 
-
-Asked 4 questions (Tech Stack, Styling, Tools, Deployment)
-
-Great choices. Here's a comprehensive plan:
-
----
-
 ## Plan: Online Developer Tools Site
 
 A Next.js 14 (App Router) site with shadcn/ui hosting 20+ self-contained developer tools across 6 categories. Each tool is a focused, single-page utility — no login, no backend, all processing client-side. The project structure is intentionally uniform so an AI agent can scaffold every new tool by following the same pattern.
